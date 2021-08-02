@@ -7,7 +7,7 @@ I'm Lunny, I'm something of a LUA developer myself, and...
 - 💫 I listen to Pop Smoke every day.
 - 👨‍💻 Lunny Developments Discord: discord.gg/qRy53vW
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/342360490422566913?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/307891947165581312)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/307891947165581312?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/307891947165581312)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunny111&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
