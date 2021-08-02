@@ -3,7 +3,7 @@
 I'm Lunny, I'm something of a LUA, HTML developer myself, and...
 
 - 🔭 I'm currently working on trying to learn CSS and JS.
-- ⚡ I'm trying to teach people I can't fix their code without seeing it
+- ⚡ I'm trying to teach people I can't fix their code without seeing it.
 - 💫 I listen to Pop Smoke every day.
 - 👨‍💻 Lunny Developments Discord: discord.gg/qRy53vW
 
