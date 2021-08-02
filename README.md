@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi! 👋
 
-<!--
-**lunny111/lunny111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lunny, I'm something of a LUA developer myself, and...
 
-Here are some ideas to get you started:
+- 🔭 I'm currently working on trying to learn Front end dev
+- ⚡ I'm trying to teach people I can't fix their code without seeing it
+- 💫 I listen to Pop Smoke every day.
+- 👨‍💻 Lunny Developments Discord: discord.gg/qRy53vW
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/342360490422566913?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/342360490422566913)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adiss01&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+
+![adiss01's GitHub stats](https://github-readme-stats.vercel.app/api?username=adiss01&show_icons=true&theme=radical)
+
+<img src="https://komarev.com/ghpvc/?username=adiss01&label=Number%20Visitors&color=000e27" alt="adiss01" />
