@@ -5,9 +5,9 @@ I'm Lunny, I'm something of a LUA, HTML, CSS developer myself, and...
 - 🔭 I'm currently working on trying to  JS.
 - ⚡ I'm trying to teach people I can't fix their code without seeing it.
 - 💫 I listen to Pop Smoke every day.
-- 👨‍💻 Lunny Developments Discord: discord.gg/qRy53vW
+- 👨‍💻 Lunny Developments Discord: discord.gg/MurWTRVH5R
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/307891947165581312?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/307891947165581312)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/851852767831130122?theme=dark&bg=000e27&animated=true&hideDiscrim=false&borderRadius=20px)](https://discord.com/users/851852767831130122)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunny111&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
