@@ -19,7 +19,7 @@
    Mail: lunny@lunnydev.com
    <br></br>
    <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> 
-       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunny111&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+<p><a href="https://discord.com/users/342360490422566913" rel="nofollow"><img src="https://camo.githubusercontent.com/6d2edb88bdd6dbaabe3be901965bc4d39cacf8ba1aeb131c18af173d99fa866d/68747470733a2f2f6c616e796172642d70726f66696c652d726561646d652e76657263656c2e6170702f6170692f3334323336303439303432323536363931333f7468656d653d6461726b2662673d30303065323726616e696d617465643d7472756526686964654469736372696d3d66616c736526626f726465725261646975733d32307078" alt="Discord Presence" data-canonical-src="https://lanyard-profile-readme.vercel.app/api/342360490422566913?theme=dark&amp;bg=000e27&amp;animated=true&amp;hideDiscrim=false&amp;borderRadius=20px" style="max-width: 100%;"></a></p>
    </center>
    
 </div>
