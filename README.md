@@ -21,6 +21,7 @@
    <br></br>
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/851852767831130122)](https://discord.com/users/851852767831130122)
+ ![adiss01's GitHub stats](https://github-readme-stats.vercel.app/api?username=lunny111&show_icons=true&theme=radical)
  <br></br>
    <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> 
    
