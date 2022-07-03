@@ -14,9 +14,9 @@
    <br></br>
 <b>Teams I am currently working with.</b>
    <br></br>
-   <img align="center" alt="Lua" width="250px" src="https://cdn.discordapp.com/attachments/991128734893621351/991129155829760111/wqesadwqdsa.png"/>
    <img align="center" alt="Lua" width="100px" src="https://cdn.discordapp.com/attachments/763449895649673256/991131226654126151/ld.png"/>
     <br></br>
-   Mail: pwais@outlook.com
+   Mail: lunny@lunnydev.com
+   <br></br>
    <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> </center>
 </div>
