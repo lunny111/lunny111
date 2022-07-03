@@ -18,5 +18,8 @@
     <br></br>
    Mail: lunny@lunnydev.com
    <br></br>
-   <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> </center>
+   <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> 
+       [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunny111&layout=compact&langs_count=10&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+   </center>
+   
 </div>
