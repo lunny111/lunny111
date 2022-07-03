@@ -26,6 +26,13 @@
  <br></br>
    <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> 
    
+   
+   <p>
+    <a href="https://www.instagram.com/ulas2n/" rel="nofollow"><img src="https://camo.githubusercontent.com/7e5ea6500c36f6cca132b99adbf3f7283c00742c0b0cca9515f0099d292b0494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2532302d4443333137352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
+       <a href="https://open.spotify.com/user/11183182577?si=2cfc84b0e6d94150" rel="nofollow"><img src="https://camo.githubusercontent.com/8b36f195a47af7355c39f1aeb80a128d1ed7522b1ed32f726bfa27f12ff54fc5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f53706f746966792532302d3165643736302e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73706f74696679266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Spotify%20-1ed760.svg?&amp;style=for-the-badge&amp;logo=spotify&amp;logoColor=white" style="max-width: 100%;"></a>
+       <a href="https://steamcommunity.com/id/slx1337/" rel="nofollow"><img src="https://camo.githubusercontent.com/aed11bdc4d70625ae4964a66cb54a8212a5301973369e521101610d9c3b8c535/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f537465616d2532302d3131313131312e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d737465616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/Steam%20-111111.svg?&amp;style=for-the-badge&amp;logo=steam&amp;logoColor=white" style="max-width: 100%;"> </a>
+</p>
+   
    </center>
    
 </div>
