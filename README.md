@@ -20,7 +20,7 @@
    Mail: lunny@lunnydev.com
    <br></br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?lunny111=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/lunny111=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/851852767831130122)](https://discord.com/users/851852767831130122)
  <br></br>
