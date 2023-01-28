@@ -28,8 +28,7 @@
  <br></br>
    <img src="https://komarev.com/ghpvc/?username=lunny111&label=Number%20Visitors&color=000e27" alt="lunny111" /> 
    
- <p><a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://camo.githubusercontent.com/ad6caaf0d260373f3259c0f42190e3c1e8b1d769977ad9fe48e7c22a48629336/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d61646973733031266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=lunny111&amp;layout=compact&amp;langs_count=10&amp;theme=radical" style="max-width: 100%;"></a></p>
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lunny111&theme=tokyonight)
    
    <p>
     <a href="https://www.instagram.com/ulas2n/" rel="nofollow"><img src="https://camo.githubusercontent.com/7e5ea6500c36f6cca132b99adbf3f7283c00742c0b0cca9515f0099d292b0494/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f494e5354414752414d2532302d4443333137352e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465" data-canonical-src="https://img.shields.io/badge/INSTAGRAM%20-DC3175.svg?&amp;style=for-the-badge&amp;logo=instagram&amp;logoColor=white" style="max-width: 100%;"></a>
