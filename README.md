@@ -1,7 +1,7 @@
 
 <div align="center">
    
-   <img align="center" alt="Lua" width="300px" src="https://media.discordapp.net/attachments/920011506156974130/1199457960888373258/member1.pngex=65c29d46&is=65b02846&hm=e0ba563444e42dbf7c37aca6c8e6055b30d7a2acc78332eb708fe28a397278d1&=&format=webp&quality=lossless&width=336&height=336"/>
+   <img align="center" alt="Lua" width="300px" src="https://media.discordapp.net/attachments/920011506156974130/1199457960888373258/member1.png"/>
 
 ### Languages:
    
